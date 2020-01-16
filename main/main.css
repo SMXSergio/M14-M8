@@ -1,0 +1,19 @@
+.borde{
+border: 1px solid black;
+heigt: 50px;
+text-align: center;
+}
+.color1{background: ;
+  color:black}
+.color2{background: ;
+  color:black}
+.color3{background: }
+.color4{background: }
+.color5{background: ;
+color:black}
+.fondo {
+    background-image: url("/home/smx/Escritorio/MI PÁGINA WEB/images");
+}
+.slider {
+  height: 90vh;
+}
